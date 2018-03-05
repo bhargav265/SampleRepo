@@ -1,0 +1,40 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+128.199.121.125                   sladp.com
+128.199.121.125                   onhax.net
+127.0.0.2                   www.onhax.me
+128.199.121.125                   4realtorrentz.com
+128.199.121.125                   sadeeempc.com
+128.199.121.125                   fullstuff.co
+128.199.121.125                   onhax.com
+128.199.121.125                   keyscity.net
+128.199.121.125                   www.piratecity.net
+#127.0.0.1                   secure.registeridm.com
+#127.0.0.1                   mirror.InternetDownloadManager.com
+#127.0.0.1                   mirror2.InternetDownloadManager.com
+#127.0.0.1                   secure.InternetDownloadManager.com
+#127.0.0.1                   www.InternetDownloadManager.com
+127.0.0.1                   www.tonec.com
+127.0.0.1                   IDOWNLWITHIDM.com
+127.0.0.1                   IDownloadmanager.com
+127.0.0.1                   IDMDwnlMgr.com
+128.199.121.125                   sadeeempc.com
